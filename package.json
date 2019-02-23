@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-static-blog",
+  "name": "nuxt-nuxt",
   "version": "1.0.0",
-  "description": "A static blog built with Nuxt.js and Contentful",
-  "author": "Chimezie Enyinnaya <meziemichael@gmail.com>",
+  "description": "A just simple static blog built with Nuxt.js and Contentful",
+  "author": "Krissanawat Kaewsanmuang <krissanawat101@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
